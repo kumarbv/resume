@@ -1,0 +1,78 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  h2 {
+    text-align: left;
+    padding: 1px;
+    display: inline;
+  }
+  
+  .executive {
+    background-color: #d2d0fe;
+    padding: 4px 0 4px 0;;
+  }
+  
+  .header {
+    width: 100%;
+    background-color: #d2d0fe;
+    padding: 1px;
+    border: 1px solid;
+  }
+  
+  .education {
+    width: 100%;
+    background-color: #fdeced;
+    padding: 5px;
+    border: 1px solid;
+  }
+  
+  .experience {
+    width: 100%;
+    background-color: #fdecff;
+    padding: 5px;
+    border: 1px solid;
+  }
+  
+  .skills {
+    width: 100%;
+    background-color: #f9f9f9;
+    padding: 5px 0;
+    font-family: "Helvetica Neue Light";
+    border: 1px solid;
+  }
+  
+  .timeline {
+    background-color: #e5e5e5;
+    border: 1px solid;
+    padding: 2px;
+  }
+  
+  .general {
+    font-family: "Helvetica Neue Light";
+    font-size: 15px;
+  }
+  
+  .patents {
+    font-family: "Helvetica Neue Light";
+    font-size: 15px;
+  }
+  
+  .general {
+    font-family: "Helvetica Neue Light";
+    font-size: 15px;
+  }
+  
+  .awards {
+    font-family: "Helvetica Neue Light";
+    font-size: 15px;
+  }
+  
+  .books {
+    font-family: "Helvetica Neue Light";
+    font-size: 15px;
+  }
+  
+  .name {
+    text-align: left;
+  }
